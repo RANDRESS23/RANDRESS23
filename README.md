@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b>Raúl Quimbaya</b>.
-    <br>FullStack Developer<br><br>
+    <br>Frontend Developer<br><br>
 
 </samp>
 
