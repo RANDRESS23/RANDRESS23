@@ -27,7 +27,9 @@
 <a href="https://nextjs.org//" target="_blank">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 </a>
-
+<a href="https://astro.build//" target="_blank">
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white">
+</a>
 <a href="https://www.spring.io/" target="_blank">
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </a>
