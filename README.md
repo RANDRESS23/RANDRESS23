@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b>Raúl Quimbaya</b>.
-    <br>Frontend Developer<br><br>
+    <br>Web Developer<br><br>
 
 </samp>
 
@@ -11,7 +11,14 @@
 </p>
 <br>
 
-## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
+## Acerca de mí 🖖
+Soy un **apasionado desarrollador web** con un enfoque en la creación de experiencias web modernas y dinámicas. Me especializo en el desarrollo de **interfaces intuitivas y optimizadas**, utilizando tecnologías como **React, Next.js, Astro y Angular** para construir aplicaciones eficientes y atractivas.
+
+A lo largo de mi trayectoria, he desarrollado diversos proyectos, explorando no solo el **frontend**, sino también el desarrollo **fullstack** cuando ha sido necesario. He trabajado con **Node.js y Spring Boot**, implementando soluciones completas que integran tanto el lado del cliente como el del servidor.
+
+Disfruto enfrentar nuevos desafíos y mejorar continuamente mis habilidades. Me motiva la **colaboración en equipo**, la búsqueda de soluciones innovadoras y el aprendizaje constante para seguir creando productos de calidad que aporten valor a los usuarios.
+
+## Skills 👨‍💻
 
 <!-- Programming Languages -->
 
@@ -72,6 +79,12 @@
 <a href="https://git-scm.com/" target="_blank">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </a>
+
+## Estadísticas de Github ⚙️
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANDRESS23&theme=radical&layout=compact" style="height: 180px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RANDRESS23&show_icons=true&theme=radical" style="height: 180px;"/>
+</div>
 
 <!-- Tools and Platforms -->
 <p align="center">
