@@ -80,7 +80,7 @@ Disfruto enfrentar nuevos desafíos y mejorar continuamente mis habilidades. Me 
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </a>
 
-## Estadísticas de Github ⚙️
+## Estadísticas de GitHub ⚙️
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANDRESS23&theme=radical&layout=compact" style="height: 180px;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=RANDRESS23&show_icons=true&theme=radical" style="height: 180px;"/>
