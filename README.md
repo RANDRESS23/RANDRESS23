@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b>Raúl Quimbaya</b>.
-    <br>Web Developer<br><br>
+    <br>Systems Engineer | Software Developer<br><br>
 
 </samp>
 
